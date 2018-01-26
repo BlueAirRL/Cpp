@@ -2,9 +2,13 @@
 
 
 1：在一个整形数组中查询两个元素和为目标值的计算；
+
 LeetCode官方实例：
+
 Given nums = [2, 7, 11, 15], target = 9,
+
 Because nums[0] + nums[1] = 2 + 7 = 9,
+
 return [0, 1].
 
 2：上传的代码解析：
